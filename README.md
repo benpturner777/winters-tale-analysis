@@ -1,11 +1,13 @@
 # Winter's Tale Text Analysis
-This is a Python project that decodes a ciphered version of *The Winter's Tale* and performs detailed textual analysis on words, lines, characters, and scenes. The play text `lgm540_play.txt` must be downloaded for the script to run.
+This is a Python project that decodes a ciphered version of *The Winter's Tale* and performs detailed textual analysis on words, lines, characters, and scenes. The play text `lgm540_play.txt` must be downloaded for the script to run. 
 
 ---
 
 ## The goal
 
 The goal is to decode a shift-ciphered text and explore the structure of Shakespeare’s play through computational analysis. This includes finding word distributions, character speech patterns, and scene structures, while keeping the analysis visual and interpretable.
+
+The intention behind this project is to practice visualising data which has been constructed by analysis. There is a clear focus on the matplotlib library. 
 
 ---
 
