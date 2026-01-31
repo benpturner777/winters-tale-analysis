@@ -1,6 +1,3 @@
-# Ben Turner - benpturner2004@gmail.com
-# The Winter's Tale Analysis Script
-#%%
 import matplotlib.pyplot as plt
 from collections import Counter
 
